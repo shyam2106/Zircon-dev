@@ -25,7 +25,10 @@ public Login  loginn;
 	@When("User enters the url {string}")
 	public void user_enters_the_url(String loginurl) {
 	   
+public void apparels ()
 
+{
+}
 	
 		
 		
