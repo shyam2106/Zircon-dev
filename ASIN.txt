@@ -30,6 +30,10 @@ public void apparels ()
 {
 }
 	
+public  void shoes ()
+{
+
+}
 		
 		
 	}
